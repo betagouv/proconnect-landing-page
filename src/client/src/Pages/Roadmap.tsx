@@ -182,10 +182,6 @@ function Roadmap() {
                         <abbr title="Déclaration Sociale Nominative">DSN</abbr>{" "}
                         pour certifier les employés
                       </li>
-                      <li>
-                        Espace partenaire disponible pour les configurations de
-                        production
-                      </li>
                     </ul>
                   </div>
                 </li>
